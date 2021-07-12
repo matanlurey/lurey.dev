@@ -1,0 +1,48 @@
+baseURL = "http://lurey.dev/"
+languageCode = "en-us"
+
+title = "Lurey.dev"
+theme = "anatole"
+
+[params]
+title = "I'm Matan"
+author = "Matan Lurey"
+description = """
+  Software Engineer and Technical Lead.
+  I build and celebrate <em>scalable</em> engineering practices and teams.
+"""
+profilePicture = "images/matan.png"
+displayMode = "dark"
+disqusShortname = "lurey-dev"
+
+# TODO: Google Analytics
+# TODO: googleSiteVerify 
+
+# Used for syntax highlighting.
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "Email Me"
+url = "mailto:matan@lurey.dev"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/matanlurey"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://linkedin.com/in/lurey"
+
+[[params.socialIcons]]
+icon = "fas fa-rss"
+title = "RSS"
+url = "/index.xml"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/matanlurey"
