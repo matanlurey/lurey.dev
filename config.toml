@@ -46,3 +46,8 @@ url = "/index.xml"
 icon = "fab fa-twitter"
 title = "Twitter"
 url = "https://twitter.com/matanlurey"
+
+[[params.socialIcons]]
+icon = "fab fa-goodreads"
+title = "Goodreads"
+url = "https://goodreads.com/matanlurey"
